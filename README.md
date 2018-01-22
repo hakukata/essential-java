@@ -1,5 +1,7 @@
 # Essential Java.《Java 编程要点》
 
+> 本开源书 forked from [Java 编程要点](https://github.com/waylau/essential-java)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/essential-java)，以便获得最新更新，谢谢！
+
 ![](java_logo.jpg)
 
 Essential Java, is a book about the Essentials of Java Programming.
